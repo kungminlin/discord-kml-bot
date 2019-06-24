@@ -1,0 +1,18 @@
+{
+	"name": "kml-bot",
+	"version": "1.0.0",
+	"description": "KML Bot",
+	"author": "Kung-Min Lin",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kungminlin/discord-kml-bot"
+	},
+	"main": "bot.js",
+	"scripts": {
+		"start": "node bot.js"
+	},
+	"dependencies": {
+		"discord.js": "^11.5.1",
+		"winston": "^3.2.1"
+	}
+}
